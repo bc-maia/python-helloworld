@@ -1,3 +1,4 @@
 ## Github Actions Test
 
-- testing CI on github.
+- testing CI for docker build on github.
+- using pytest pipeline on github actions.
