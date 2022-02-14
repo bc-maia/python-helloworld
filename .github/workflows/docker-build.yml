@@ -43,4 +43,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: bc-maia/python-helloworld:latest
+          tags: bcmaia/python-helloworld:latest
