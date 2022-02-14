@@ -1,3 +1,3 @@
 ## Github Actions Test
 
-testing CI on github.
+- testing CI on github.
